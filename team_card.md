@@ -4,5 +4,5 @@
 ## Members
 
 - **Partner A:** [Replace with Partner A Name]
-- **Partner B:** [Replace with Partner B Name]
-- **Team Name:** [Replace with a Team Name]
+- **Partner B:** cameron
+- **Team Name:** fallhacks
