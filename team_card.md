@@ -3,6 +3,8 @@
 
 ## Members
 
+
 - **Partner A:** Christy
-- **Partner B:** [Replace with Partner B Name]
-- **Team Name:** Discrete Math
+- **Partner B:** cameron
+- **Team Name:** fallhackers
+
