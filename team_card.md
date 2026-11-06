@@ -3,6 +3,6 @@
 
 ## Members
 
-- **Partner A:** [Replace with Partner A Name]
+- **Partner A:** Christy
 - **Partner B:** [Replace with Partner B Name]
-- **Team Name:** [Replace with a Team Name]
+- **Team Name:** Discrete Math
