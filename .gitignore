@@ -10,4 +10,7 @@ __pycache__/
 venv/
 .venv/
 
+
 # TODO: Add your secret environment file below so it doesn't leak!
+.env
+
